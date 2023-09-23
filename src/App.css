@@ -1,0 +1,72 @@
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.menu{
+  font-size: large;
+}
+
+
+.button_menu{
+  font-size: 20px;
+}
+
+a{
+  font-size: 20px;
+}
+
+.term_selection{
+  right: 0px;
+  margin-right: 250px;
+  margin-top: -22px;
+}
+
+.main_margins{
+  margin-top: 15px;
+}
+
+.divisions_margins{
+  margin-top: 30px;
+}
+
+table{
+  width: 100%;
+  font-size: 20px;
+}
+
+.head{
+  table-layout:fixed;
+}
+
+.heading{
+  font-size: 40px;
+  text-align: center;
+}
+
+.menu_width{
+  width: 270px;
+}
+
+.stud_ac{
+  margin-top: 50px;
+}
